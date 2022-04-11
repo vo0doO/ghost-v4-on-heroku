@@ -22,15 +22,16 @@
     "node": "14.X"
   },
   "dependencies": {
-    "simply": "github:vo0doO/simply#master",
+    "casper": "github:TryGhost/Casper#main",
     "ghost": "^4.36.0",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.1.5",
+    "simply": "github:vo0doO/simply#master",
     "krabi": "github:vo0doO/krabi#vo0doO-nosass",
     "mysql": "^2.18.1"
   },
   "scripts": {
-    "start": "node thelovekesh.js",
+    "start": "node vo0doo.js",
     "postinstall": "bash bin/cloudinary.sh && bash bin/aws-s3.sh && bash bin/themes.sh"
   }
 }
