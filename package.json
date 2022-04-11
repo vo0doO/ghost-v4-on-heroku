@@ -5,19 +5,19 @@
   "main": "thelovekesh.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thelovekesh/ghost-v4-on-heroku.git"
+    "url": "git+https://github.com/vo0doo/ghost-v4-on-heroku.git"
   },
   "keywords": [
     "ghost",
     "ghost v4",
     "heroku"
   ],
-  "author": "thelovekesh",
+  "author": "vo0doo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thelovekesh/ghost-v4-on-heroku/issues"
+    "url": "https://github.com/vo0doo/ghost-v4-on-heroku/issues"
   },
-  "homepage": "https://github.com/thelovekesh/ghost-v4-on-heroku#readme",
+  "homepage": "https://github.com/vo0doo/ghost-v4-on-heroku#readme",
   "engines": {
     "node": "14.X"
   },
